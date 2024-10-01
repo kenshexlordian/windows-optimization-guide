@@ -24,7 +24,7 @@
     "disable account-based explorer features": true,
     "disable mdm enrollment": true,
     "disable microsoft store push to install feature": true,
-    "mitigate web-based search info": false,
+    "mitigate web-based search info": true,
     "disable sending inking and typing data to microsoft": true,
     "disable automatic maintenance": true,
     "disable program compatibility assistant": true,
