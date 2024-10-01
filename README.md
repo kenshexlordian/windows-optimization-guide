@@ -28,14 +28,9 @@
 
 
 
+## 1. [Обсуждение версий и сборок Windows](/guide/About_Versions.md)
 
-## 1. [О компьютерных аксессуарах, сборке, уходе, рекомендации](/guide/PC_Setup_and_devices.md)
-
-## 2. [Обсуждение версий и сборок Windows](/guide/About_Versions.md)
-
-## 3. [Руководство по настройке Windows](/guide/Windows_Optimization.md)
-
-## 4. [Исследования](/guide/Explorations.md)
+## 2. [Руководство по настройке Windows](/guide/Windows_Optimization.md)
 
 
 ## Послесловие
